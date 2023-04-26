@@ -1,0 +1,2455 @@
+# sent_id = elder-scrolls-fandom-1
+# text = The Elder Scrolls Online v2.2.11 is an incremental patch that addresses a couple issues in the DLC game pack , the Camouflaged Hunter ability , and includes additional improvements to performance in Cyrodiil .
+1	The	DT
+2	Elder	NNP
+3	Scrolls	NNPS
+4	Online	NNP
+5	v2.2.11	NNP
+6	is	VBZ
+7	an	DT
+8	incremental	JJ
+9	patch	NN
+10	that	WDT
+11	addresses	VBZ
+12	a	DT
+13	couple	NN
+14	issues	NNS
+15	in	IN
+16	the	DT
+17	DLC	NN
+18	game	NN
+19	pack	NN
+20	,	,
+21	the	DT
+22	Camouflaged	NNP
+23	Hunter	NNP
+24	ability	NN
+25	,	,
+26	and	CC
+27	includes	VBZ
+28	additional	JJ
+29	improvements	NNS
+30	to	TO
+31	performance	NN
+32	in	IN
+33	Cyrodiil	NNP
+34	.	.
+
+# sent_id = elder-scrolls-fandom-2
+# text = They are Falmer who were encased in ice , though under Arch-Curate Vyrthur 's command , they will quickly thaw out and attack the Last Dragonborn .
+1	They	PRP
+2	are	VBP
+3	Falmer	NNS
+4	who	WP
+5	were	VBD
+6	encased	VBN
+7	in	IN
+8	ice	NN
+9	,	,
+10	though	IN
+11	under	IN
+12	Arch-Curate	NNP
+13	Vyrthur	NNP
+14	's	POS
+15	command	NN
+16	,	,
+17	they	PRP
+18	will	MD
+19	quickly	RB
+20	thaw	VB
+21	out	RP
+22	and	CC
+23	attack	VB
+24	the	DT
+25	Last	NNP
+26	Dragonborn	NNP
+27	.	.
+
+# sent_id = elder-scrolls-fandom-3
+# text = The name General 's Shield may refer to the enchantment instead of a single shield .
+1	The	DT
+2	name	NN
+3	General	NNP
+4	's	POS
+5	Shield	NNP
+6	may	MD
+7	refer	VB
+8	to	TO
+9	the	DT
+10	enchantment	NN
+11	instead	RB
+12	of	IN
+13	a	DT
+14	single	JJ
+15	shield	NN
+16	.	.
+
+# sent_id = elder-scrolls-fandom-4
+# text = Spell Damage is damage that affects both Destruction Staves and Restoration Staves .
+1	Spell	NN
+2	Damage	NN
+3	is	VBZ
+4	damage	NN
+5	that	WDT
+6	affects	VBZ
+7	both	CC
+8	Destruction	NN
+9	Staves	NNS
+10	and	CC
+11	Restoration	NN
+12	Staves	NNS
+13	.	.
+
+# sent_id = elder-scrolls-fandom-5
+# text = `` Are you aware that Corda , Rijja 's sister , is an initiate of the Morwha conservatorium in Hegathe ? ''
+1	``	``
+2	Are	VBP
+3	you	PRP
+4	aware	JJ
+5	that	IN
+6	Corda	NNP
+7	,	,
+8	Rijja	NNP
+9	's	POS
+10	sister	NN
+11	,	,
+12	is	VBZ
+13	an	DT
+14	initiate	NN
+15	of	IN
+16	the	DT
+17	Morwha	NNP
+18	conservatorium	NN
+19	in	IN
+20	Hegathe	NNP
+21	?	.
+22	''	''
+
+# sent_id = elder-scrolls-fandom-6
+# text = The Crown store now offers a new type of style item that can be used to make equipment in any crafting motif the crafter has learned .
+1	The	DT
+2	Crown	NNP
+3	store	NNP
+4	now	RB
+5	offers	VBZ
+6	a	DT
+7	new	JJ
+8	type	NN
+9	of	IN
+10	style	NN
+11	item	NN
+12	that	WDT
+13	can	MD
+14	be	VB
+15	used	VBN
+16	to	TO
+17	make	VB
+18	equipment	NN
+19	in	IN
+20	any	DT
+21	crafting	VBG
+22	motif	NN
+23	the	DT
+24	crafter	NN
+25	has	VBZ
+26	learned	VBN
+27	.	.
+
+# sent_id = elder-scrolls-fandom-7
+# text = I 'm as open-minded as the next smuggler , but I do have standards .
+1	I	PRP
+2	'm	VBP
+3	as	RB
+4	open-minded	JJ
+5	as	IN
+6	the	DT
+7	next	JJ
+8	smuggler	NN
+9	,	,
+10	but	CC
+11	I	PRP
+12	do	VBP
+13	have	VB
+14	standards	NNS
+15	.	.
+
+# sent_id = elder-scrolls-fandom-8
+# text = Glothozug is an Orsimer guild trader selling his wares at his stall , Glothie 's Sellcart , in Southpoint .
+1	Glothozug	NNP
+2	is	VBZ
+3	an	DT
+4	Orsimer	JJ
+5	guild	NN
+6	trader	NN
+7	selling	VBG
+8	his	PRP$
+9	wares	NNS
+10	at	IN
+11	his	PRP$
+12	stall	NN
+13	,	,
+14	Glothie	NNP
+15	's	POS
+16	Sellcart	NNP
+17	,	,
+18	in	IN
+19	Southpoint	NNP
+20	.	.
+
+# sent_id = elder-scrolls-fandom-9
+# text = He is willing to tell the Eternal Champion the location of the Crystal Tower in exchange for retrieving a gem from priests of the Mad God .
+1	He	PRP
+2	is	VBZ
+3	willing	VBG
+4	to	TO
+5	tell	VB
+6	the	DT
+7	Eternal	NNP
+8	Champion	NNP
+9	the	DT
+10	location	NN
+11	of	IN
+12	the	DT
+13	Crystal	NNP
+14	Tower	NNP
+15	in	IN
+16	exchange	NN
+17	for	IN
+18	retrieving	VBG
+19	a	DT
+20	gem	NN
+21	from	IN
+22	priests	NNS
+23	of	IN
+24	the	DT
+25	Mad	NNP
+26	God	NNP
+27	.	.
+
+# sent_id = elder-scrolls-fandom-10
+# text = It was as if Dagoth-Ur himself was looming over the city , fanning the flames his heir had struck .
+1	It	PRP
+2	was	VBD
+3	as	IN
+4	if	IN
+5	Dagoth-Ur	NNP
+6	himself	PRP
+7	was	VBD
+8	looming	VBG
+9	over	IN
+10	the	DT
+11	city	NN
+12	,	,
+13	fanning	VBG
+14	the	DT
+15	flames	NNS
+16	his	PRP$
+17	heir	NN
+18	had	VBD
+19	struck	VBN
+20	.	.
+
+# sent_id = elder-scrolls-fandom-11
+# text = I 'm sure I 'll have a delightful time here in the colony ; I do hope that the people here are nice and like to chat . '' ''
+1	I	PRP
+2	'm	VBP
+3	sure	JJ
+4	I	PRP
+5	'll	MD
+6	have	VB
+7	a	DT
+8	delightful	JJ
+9	time	NN
+10	here	RB
+11	in	IN
+12	the	DT
+13	colony	NN
+14	;	:
+15	I	PRP
+16	do	VBP
+17	hope	VB
+18	that	IN
+19	the	DT
+20	people	NNS
+21	here	RB
+22	are	VBP
+23	nice	JJ
+24	and	CC
+25	like	VBP
+26	to	TO
+27	chat	VB
+28	.	.
+29	''	''
+30	''	''
+
+# sent_id = elder-scrolls-fandom-12
+# text = For the tale of the Old Tower of the Fallen Waste is unlike any you have heard before .
+1	For	IN
+2	the	DT
+3	tale	NN
+4	of	IN
+5	the	DT
+6	Old	NNP
+7	Tower	NNP
+8	of	IN
+9	the	DT
+10	Fallen	NNP
+11	Waste	NNP
+12	is	VBZ
+13	unlike	IN
+14	any	DT
+15	you	PRP
+16	have	VBP
+17	heard	VBN
+18	before	RB
+19	.	.
+
+# sent_id = elder-scrolls-fandom-13
+# text = During his and his family 's residency at the fort , Lord Faleria delved into dark magic .
+1	During	IN
+2	his	PRP$
+3	and	CC
+4	his	PRP$
+5	family	NN
+6	's	POS
+7	residency	NN
+8	at	IN
+9	the	DT
+10	fort	NN
+11	,	,
+12	Lord	NNP
+13	Faleria	NNP
+14	delved	VBD
+15	into	IN
+16	dark	JJ
+17	magic	NN
+18	.	.
+
+# sent_id = elder-scrolls-fandom-14
+# text = Near the lake is Agmaer , a young Nord recruit .
+1	Near	IN
+2	the	DT
+3	lake	NN
+4	is	VBZ
+5	Agmaer	NNP
+6	,	,
+7	a	DT
+8	young	JJ
+9	Nord	JJ
+10	recruit	NN
+11	.	.
+
+# sent_id = elder-scrolls-fandom-15
+# text = Those guards sold you out but good .
+1	Those	DT
+2	guards	NNS
+3	sold	VBD
+4	you	PRP
+5	out	RP
+6	but	CC
+7	good	RB
+8	.	.
+
+# sent_id = elder-scrolls-fandom-16
+# text = Well , as normal as anyone can be growing up in this strange land .
+1	Well	UH
+2	,	,
+3	as	RB
+4	normal	JJ
+5	as	IN
+6	anyone	NN
+7	can	MD
+8	be	VB
+9	growing	VBG
+10	up	RP
+11	in	IN
+12	this	DT
+13	strange	JJ
+14	land	NN
+15	.	.
+
+# sent_id = elder-scrolls-fandom-17
+# text = long swords , axes , flails and the like are not permitted by the sacred laws of Trinimac .
+1	long	JJ
+2	swords	NNS
+3	,	,
+4	axes	NNS
+5	,	,
+6	flails	NNS
+7	and	CC
+8	the	DT
+9	like	NN
+10	are	VBP
+11	not	RB
+12	permitted	VBN
+13	by	IN
+14	the	DT
+15	sacred	JJ
+16	laws	NNS
+17	of	IN
+18	Trinimac	NNP
+19	.	.
+
+# sent_id = elder-scrolls-fandom-18
+# text = Otherwise it only opens and closes the cage door instead of giving the button activate option .
+1	Otherwise	RB
+2	it	PRP
+3	only	RB
+4	opens	VBZ
+5	and	CC
+6	closes	VBZ
+7	the	DT
+8	cage	NN
+9	door	NN
+10	instead	RB
+11	of	IN
+12	giving	VBG
+13	the	DT
+14	button	NN
+15	activate	VB
+16	option	NN
+17	.	.
+
+# sent_id = elder-scrolls-fandom-19
+# text = That sounds like a bad idea .
+1	That	DT
+2	sounds	VBZ
+3	like	IN
+4	a	DT
+5	bad	JJ
+6	idea	NN
+7	.	.
+
+# sent_id = elder-scrolls-fandom-20
+# text = The generals of the legions had dreaded an invasion of Morrowind .
+1	The	DT
+2	generals	NNS
+3	of	IN
+4	the	DT
+5	legions	NNS
+6	had	VBD
+7	dreaded	VBN
+8	an	DT
+9	invasion	NN
+10	of	IN
+11	Morrowind	NNP
+12	.	.
+
+# sent_id = elder-scrolls-fandom-21
+# text = Perhaps she can save someone ... her mother ... from the same fate . ''
+1	Perhaps	RB
+2	she	PRP
+3	can	MD
+4	save	VB
+5	someone	NN
+6	...	:
+7	her	PRP$
+8	mother	NN
+9	...	:
+10	from	IN
+11	the	DT
+12	same	JJ
+13	fate	NN
+14	.	.
+15	''	''
+
+# sent_id = elder-scrolls-fandom-22
+# text = We have a common destiny , you and I .
+1	We	PRP
+2	have	VBP
+3	a	DT
+4	common	JJ
+5	destiny	NN
+6	,	,
+7	you	PRP
+8	and	CC
+9	I	PRP
+10	.	.
+
+# sent_id = elder-scrolls-fandom-23
+# text = The following people are known to either use or sell this item :
+1	The	DT
+2	following	JJ
+3	people	NNS
+4	are	VBP
+5	known	VBN
+6	to	TO
+7	either	CC
+8	use	VB
+9	or	CC
+10	sell	VB
+11	this	DT
+12	item	NN
+13	:	:
+
+# sent_id = elder-scrolls-fandom-24
+# text = Nikulas can be found outdoors during the day , usually sitting on a bench by the Greathall .
+1	Nikulas	NNP
+2	can	MD
+3	be	VB
+4	found	VBN
+5	outdoors	RB
+6	during	IN
+7	the	DT
+8	day	NN
+9	,	,
+10	usually	RB
+11	sitting	VBG
+12	on	IN
+13	a	DT
+14	bench	NN
+15	by	IN
+16	the	DT
+17	Greathall	NNP
+18	.	.
+
+# sent_id = elder-scrolls-fandom-25
+# text = No surprise , if you 've ever read his ...
+1	No	DT
+2	surprise	NN
+3	,	,
+4	if	IN
+5	you	PRP
+6	've	VBP
+7	ever	RB
+8	read	VBN
+9	his	PRP
+10	...	:
+
+# sent_id = elder-scrolls-fandom-26
+# text = I 'm sure you 'll find him . '' )
+1	I	PRP
+2	'm	VBP
+3	sure	JJ
+4	you	PRP
+5	'll	MD
+6	find	VB
+7	him	PRP
+8	.	.
+9	''	''
+10	)	-RRB-
+
+# sent_id = elder-scrolls-fandom-27
+# text = If chosen to give the book to Teekeeus
+1	If	IN
+2	chosen	VBN
+3	to	TO
+4	give	VB
+5	the	DT
+6	book	NN
+7	to	TO
+8	Teekeeus	NNP
+
+# sent_id = elder-scrolls-fandom-28
+# text = Wulf offered the Nerevarine a coin , which would offer increased luck when accepted .
+1	Wulf	NNP
+2	offered	VBD
+3	the	DT
+4	Nerevarine	NNP
+5	a	DT
+6	coin	NN
+7	,	,
+8	which	WDT
+9	would	MD
+10	offer	VB
+11	increased	JJ
+12	luck	NN
+13	when	IN
+14	accepted	VBN
+15	.	.
+
+# sent_id = elder-scrolls-fandom-29
+# text = Frikkhild Coldheart is a Nord blacksmith .
+1	Frikkhild	NNP
+2	Coldheart	NNP
+3	is	VBZ
+4	a	DT
+5	Nord	JJ
+6	blacksmith	NN
+7	.	.
+
+# sent_id = elder-scrolls-fandom-30
+# text = It stands watch pointing north , as if daring anyone to cross the borders into the Imperial nation .
+1	It	PRP
+2	stands	VBZ
+3	watch	NN
+4	pointing	VBG
+5	north	RB
+6	,	,
+7	as	IN
+8	if	IN
+9	daring	VBG
+10	anyone	NN
+11	to	TO
+12	cross	VB
+13	the	DT
+14	borders	NNS
+15	into	IN
+16	the	DT
+17	Imperial	JJ
+18	nation	NN
+19	.	.
+
+# sent_id = elder-scrolls-fandom-31
+# text = Potema merely smiled .
+1	Potema	NNP
+2	merely	RB
+3	smiled	VBD
+4	.	.
+
+# sent_id = elder-scrolls-fandom-32
+# text = ( Civil War ) Was my sister involved in the civil war in some way ?
+1	(	-LRB-
+2	Civil	NNP
+3	War	NNP
+4	)	-RRB-
+5	Was	VBD
+6	my	PRP$
+7	sister	NN
+8	involved	VBN
+9	in	IN
+10	the	DT
+11	civil	JJ
+12	war	NN
+13	in	IN
+14	some	DT
+15	way	NN
+16	?	.
+
+# sent_id = elder-scrolls-fandom-33
+# text = Restoring the Guardians .
+1	Restoring	NNP
+2	the	DT
+3	Guardians	NNPS
+4	.	.
+
+# sent_id = elder-scrolls-fandom-34
+# text = She was last caretaker of young Barenziah .
+1	She	PRP
+2	was	VBD
+3	last	RB
+4	caretaker	NN
+5	of	IN
+6	young	JJ
+7	Barenziah	NNP
+8	.	.
+
+# sent_id = elder-scrolls-fandom-35
+# text = `` Welcome to the Flowing Bowl . ''
+1	``	``
+2	Welcome	UH
+3	to	TO
+4	the	DT
+5	Flowing	NNP
+6	Bowl	NNP
+7	.	.
+8	''	''
+
+# sent_id = elder-scrolls-fandom-36
+# text = That 's why I 've sought you each out .
+1	That	DT
+2	's	VBZ
+3	why	WRB
+4	I	PRP
+5	've	VBP
+6	sought	VBN
+7	you	PRP
+8	each	DT
+9	out	RP
+10	.	.
+
+# sent_id = elder-scrolls-fandom-37
+# text = If choosing it , Tienius Delitian is most impressed with their `` fine judgement '' and `` light touch . ''
+1	If	IN
+2	choosing	VBG
+3	it	PRP
+4	,	,
+5	Tienius	NNP
+6	Delitian	NNP
+7	is	VBZ
+8	most	RBS
+9	impressed	JJ
+10	with	IN
+11	their	PRP$
+12	``	``
+13	fine	JJ
+14	judgement	NN
+15	''	''
+16	and	CC
+17	``	``
+18	light	JJ
+19	touch	NN
+20	.	.
+21	''	''
+
+# sent_id = elder-scrolls-fandom-38
+# text = Your famous honor .
+1	Your	PRP$
+2	famous	JJ
+3	honor	NN
+4	.	.
+
+# sent_id = elder-scrolls-fandom-39
+# text = He watched them surge forward , but it was the last sight he ever saw .
+1	He	PRP
+2	watched	VBD
+3	them	PRP
+4	surge	VB
+5	forward	RB
+6	,	,
+7	but	CC
+8	it	PRP
+9	was	VBD
+10	the	DT
+11	last	JJ
+12	sight	NN
+13	he	PRP
+14	ever	RB
+15	saw	VBD
+16	.	.
+
+# sent_id = elder-scrolls-fandom-40
+# text = I do n't have much choice .
+1	I	PRP
+2	do	VBP
+3	n't	RB
+4	have	VB
+5	much	JJ
+6	choice	NN
+7	.	.
+
+# sent_id = elder-scrolls-fandom-41
+# text = Enter any Outlaw 's Refuge and speak to Quen .
+1	Enter	VB
+2	any	DT
+3	Outlaw	NNP
+4	's	POS
+5	Refuge	NNP
+6	and	CC
+7	speak	VB
+8	to	TO
+9	Quen	NNP
+10	.	.
+
+# sent_id = elder-scrolls-fandom-42
+# text = It will be the 10th of Sun 's Height .
+1	It	PRP
+2	will	MD
+3	be	VB
+4	the	DT
+5	10th	JJ
+6	of	IN
+7	Sun	NNP
+8	's	POS
+9	Height	NNP
+10	.	.
+
+# sent_id = elder-scrolls-fandom-43
+# text = The article also details how each race of human and elves perceives what are , essentially , the same gods .
+1	The	DT
+2	article	NN
+3	also	RB
+4	details	VBZ
+5	how	WRB
+6	each	DT
+7	race	NN
+8	of	IN
+9	human	NN
+10	and	CC
+11	elves	NNS
+12	perceives	VBZ
+13	what	WP
+14	are	VBP
+15	,	,
+16	essentially	RB
+17	,	,
+18	the	DT
+19	same	JJ
+20	gods	NNS
+21	.	.
+
+# sent_id = elder-scrolls-fandom-44
+# text = A lasting peace ensued , as the tribes and the urbanized elite established terms whereby control of Elsweyr shifted according to the phases of the moons Masser and Secunda .
+1	A	DT
+2	lasting	JJ
+3	peace	NN
+4	ensued	VBD
+5	,	,
+6	as	IN
+7	the	DT
+8	tribes	NNS
+9	and	CC
+10	the	DT
+11	urbanized	JJ
+12	elite	NN
+13	established	VBD
+14	terms	NNS
+15	whereby	WRB
+16	control	NN
+17	of	IN
+18	Elsweyr	NNP
+19	shifted	VBD
+20	according	VBG
+21	to	TO
+22	the	DT
+23	phases	NNS
+24	of	IN
+25	the	DT
+26	moons	NNS
+27	Masser	NNP
+28	and	CC
+29	Secunda	NNP
+30	.	.
+
+# sent_id = elder-scrolls-fandom-45
+# text = `` I 'm not surprised .
+1	``	``
+2	I	PRP
+3	'm	VBP
+4	not	RB
+5	surprised	JJ
+6	.	.
+
+# sent_id = elder-scrolls-fandom-46
+# text = I 've never seen him look so … shattered .
+1	I	PRP
+2	've	VBP
+3	never	RB
+4	seen	VBN
+5	him	PRP
+6	look	VB
+7	so	RB
+8	…	:
+9	shattered	JJ
+10	.	.
+
+# sent_id = elder-scrolls-fandom-47
+# text = Renault : `` We do n't know that , Sire .
+1	Renault	NNP
+2	:	:
+3	``	``
+4	We	PRP
+5	do	VBP
+6	n't	RB
+7	know	VB
+8	that	DT
+9	,	,
+10	Sire	NNP
+11	.	.
+
+# sent_id = elder-scrolls-fandom-48
+# text = Unenchanted pieces of armor will begin to appear throughout Skyrim at level 2 and enchanted variants can be found at level 3 .
+1	Unenchanted	JJ
+2	pieces	NNS
+3	of	IN
+4	armor	NN
+5	will	MD
+6	begin	VB
+7	to	TO
+8	appear	VB
+9	throughout	IN
+10	Skyrim	NNP
+11	at	IN
+12	level	NN
+13	2	CD
+14	and	CC
+15	enchanted	JJ
+16	variants	NNS
+17	can	MD
+18	be	VB
+19	found	VBN
+20	at	IN
+21	level	NN
+22	3	CD
+23	.	.
+
+# sent_id = elder-scrolls-fandom-49
+# text = Endryn Llethan reveals that the Shoes were seen in a vision of a priest within the Daedric Shrine of Ald Sotha , near a statue of Mehrunes Dagon .
+1	Endryn	NNP
+2	Llethan	NNP
+3	reveals	VBZ
+4	that	WDT
+5	the	DT
+6	Shoes	NNPS
+7	were	VBD
+8	seen	VBN
+9	in	IN
+10	a	DT
+11	vision	NN
+12	of	IN
+13	a	DT
+14	priest	NN
+15	within	IN
+16	the	DT
+17	Daedric	NNP
+18	Shrine	NNP
+19	of	IN
+20	Ald	NNP
+21	Sotha	NNP
+22	,	,
+23	near	IN
+24	a	DT
+25	statue	NN
+26	of	IN
+27	Mehrunes	NNP
+28	Dagon	NNP
+29	.	.
+
+# sent_id = elder-scrolls-fandom-50
+# text = It is home to a chapter of the Fighters Guild , and has a general store and a number of taverns .
+1	It	PRP
+2	is	VBZ
+3	home	NN
+4	to	TO
+5	a	DT
+6	chapter	NN
+7	of	IN
+8	the	DT
+9	Fighters	NNPS
+10	Guild	NNP
+11	,	,
+12	and	CC
+13	has	VBZ
+14	a	DT
+15	general	JJ
+16	store	NN
+17	and	CC
+18	a	DT
+19	number	NN
+20	of	IN
+21	taverns	NNS
+22	.	.
+
+# sent_id = elder-scrolls-fandom-51
+# text = He was strong of arm , and fleet of foot , though he was not yet a warrior of the Skaal .
+1	He	PRP
+2	was	VBD
+3	strong	JJ
+4	of	IN
+5	arm	NN
+6	,	,
+7	and	CC
+8	fleet	JJ
+9	of	IN
+10	foot	NN
+11	,	,
+12	though	IN
+13	he	PRP
+14	was	VBD
+15	not	RB
+16	yet	RB
+17	a	DT
+18	warrior	NN
+19	of	IN
+20	the	DT
+21	Skaal	NNPS
+22	.	.
+
+# sent_id = elder-scrolls-fandom-52
+# text = `` He ate well yesterday , luckily for your chickens , else I 'd have to buy one from you . ''
+1	``	``
+2	He	PRP
+3	ate	VBD
+4	well	RB
+5	yesterday	RB
+6	,	,
+7	luckily	RB
+8	for	IN
+9	your	PRP$
+10	chickens	NNS
+11	,	,
+12	else	RB
+13	I	PRP
+14	'd	MD
+15	have	VB
+16	to	TO
+17	buy	VB
+18	one	CD
+19	from	IN
+20	you	PRP
+21	.	.
+22	''	''
+
+# sent_id = elder-scrolls-fandom-53
+# text = I need to know what 's happening in this village .
+1	I	PRP
+2	need	VBP
+3	to	TO
+4	know	VB
+5	what	WP
+6	's	VBZ
+7	happening	VBG
+8	in	IN
+9	this	DT
+10	village	NN
+11	.	.
+
+# sent_id = elder-scrolls-fandom-54
+# text = Gentle Star of Stendarr is a temple within the region of Alik'r in Hammerfell .
+1	Gentle	NNP
+2	Star	NNP
+3	of	IN
+4	Stendarr	NNP
+5	is	VBZ
+6	a	DT
+7	temple	NN
+8	within	IN
+9	the	DT
+10	region	NN
+11	of	IN
+12	Alik'r	NNP
+13	in	IN
+14	Hammerfell	NNP
+15	.	.
+
+# sent_id = elder-scrolls-fandom-55
+# text = This sermon is untrue .
+1	This	DT
+2	sermon	NN
+3	is	VBZ
+4	untrue	JJ
+5	.	.
+
+# sent_id = elder-scrolls-fandom-56
+# text = You 're a werewolf , but not of this pack .
+1	You	PRP
+2	're	VBP
+3	a	DT
+4	werewolf	NN
+5	,	,
+6	but	CC
+7	not	RB
+8	of	IN
+9	this	DT
+10	pack	NN
+11	.	.
+
+# sent_id = elder-scrolls-fandom-57
+# text = Of course , he struck first with his blade , and I just fell back in shock .
+1	Of	IN
+2	course	NN
+3	,	,
+4	he	PRP
+5	struck	VBD
+6	first	RB
+7	with	IN
+8	his	PRP$
+9	blade	NN
+10	,	,
+11	and	CC
+12	I	PRP
+13	just	RB
+14	fell	VBD
+15	back	RB
+16	in	IN
+17	shock	NN
+18	.	.
+
+# sent_id = elder-scrolls-fandom-58
+# text = Return to Sirilonwe 's room in the Vivec Mages Guild via the teleport and place the book back in the chest it was taken from , or alternatively Sirilonwe can be talked to .
+1	Return	VB
+2	to	TO
+3	Sirilonwe	NNP
+4	's	POS
+5	room	NN
+6	in	IN
+7	the	DT
+8	Vivec	NNP
+9	Mages	NNPS
+10	Guild	NNP
+11	via	IN
+12	the	DT
+13	teleport	NN
+14	and	CC
+15	place	VB
+16	the	DT
+17	book	NN
+18	back	RB
+19	in	IN
+20	the	DT
+21	chest	NN
+22	it	PRP
+23	was	VBD
+24	taken	VBN
+25	from	IN
+26	,	,
+27	or	CC
+28	alternatively	RB
+29	Sirilonwe	NNP
+30	can	MD
+31	be	VB
+32	talked	VBN
+33	to	TO
+34	.	.
+
+# sent_id = elder-scrolls-fandom-59
+# text = Tanval resurrected Balreth of the Brothers of Strife to destroy the Armada .
+1	Tanval	NNP
+2	resurrected	VBD
+3	Balreth	NNP
+4	of	IN
+5	the	DT
+6	Brothers	NNPS
+7	of	IN
+8	Strife	NNP
+9	to	TO
+10	destroy	VB
+11	the	DT
+12	Armada	NNP
+13	.	.
+
+# sent_id = elder-scrolls-fandom-60
+# text = Old Trinket is a character found in `` '' .
+1	Old	NNP
+2	Trinket	NNP
+3	is	VBZ
+4	a	DT
+5	character	NN
+6	found	VBN
+7	in	IN
+8	``	``
+9	''	''
+10	.	.
+
+# sent_id = elder-scrolls-fandom-61
+# text = Another solution , aside from using Whirlwind Sprint , is to use the Become Ethereal shout , which will render the flames harmless for as long as the shout is in effect .
+1	Another	DT
+2	solution	NN
+3	,	,
+4	aside	RB
+5	from	IN
+6	using	VBG
+7	Whirlwind	NNP
+8	Sprint	NNP
+9	,	,
+10	is	VBZ
+11	to	TO
+12	use	VB
+13	the	DT
+14	Become	NNP
+15	Ethereal	NNP
+16	shout	NN
+17	,	,
+18	which	WDT
+19	will	MD
+20	render	VB
+21	the	DT
+22	flames	NNS
+23	harmless	JJ
+24	for	IN
+25	as	RB
+26	long	RB
+27	as	IN
+28	the	DT
+29	shout	NN
+30	is	VBZ
+31	in	IN
+32	effect	NN
+33	.	.
+
+# sent_id = elder-scrolls-fandom-62
+# text = Jester Queen Ayrenn : `` Oh , my !
+1	Jester	NNP
+2	Queen	NNP
+3	Ayrenn	NNP
+4	:	:
+5	``	``
+6	Oh	UH
+7	,	,
+8	my	UH
+9	!	.
+
+# sent_id = elder-scrolls-fandom-63
+# text = `` The Dawnguard will , no doubt , soon become even more of a nuisance now that Auriel 's Bow has been recovered .
+1	``	``
+2	The	DT
+3	Dawnguard	NNP
+4	will	MD
+5	,	,
+6	no	DT
+7	doubt	NN
+8	,	,
+9	soon	RB
+10	become	VB
+11	even	RB
+12	more	JJR
+13	of	IN
+14	a	DT
+15	nuisance	NN
+16	now	RB
+17	that	IN
+18	Auriel	NNP
+19	's	POS
+20	Bow	NNP
+21	has	VBZ
+22	been	VBN
+23	recovered	VBN
+24	.	.
+
+# sent_id = elder-scrolls-fandom-64
+# text = It 's where my mentor , Sinderion said he was going to do his field research . ''
+1	It	PRP
+2	's	VBZ
+3	where	WRB
+4	my	PRP$
+5	mentor	NN
+6	,	,
+7	Sinderion	NNP
+8	said	VBD
+9	he	PRP
+10	was	VBD
+11	going	VBG
+12	to	TO
+13	do	VB
+14	his	PRP$
+15	field	NN
+16	research	NN
+17	.	.
+18	''	''
+
+# sent_id = elder-scrolls-fandom-65
+# text = Jazbay Grapes are categorized as a rare ingredient , and apothecary merchants will therefore have a 21 % chance of carrying 1–4 samples .
+1	Jazbay	NNP
+2	Grapes	NNS
+3	are	VBP
+4	categorized	VBN
+5	as	IN
+6	a	DT
+7	rare	JJ
+8	ingredient	NN
+9	,	,
+10	and	CC
+11	apothecary	NN
+12	merchants	NNS
+13	will	MD
+14	therefore	RB
+15	have	VB
+16	a	DT
+17	21	CD
+18	%	NN
+19	chance	NN
+20	of	IN
+21	carrying	VBG
+22	1–4	JJ
+23	samples	NNS
+24	.	.
+
+# sent_id = elder-scrolls-fandom-66
+# text = Inside , the Agent will face the usual random assortment of creatures and enemies , including ( potentially ) a number of atronachs .
+1	Inside	RB
+2	,	,
+3	the	DT
+4	Agent	NNP
+5	will	MD
+6	face	VB
+7	the	DT
+8	usual	JJ
+9	random	JJ
+10	assortment	NN
+11	of	IN
+12	creatures	NNS
+13	and	CC
+14	enemies	NNS
+15	,	,
+16	including	VBG
+17	(	-LRB-
+18	potentially	RB
+19	)	-RRB-
+20	a	DT
+21	number	NN
+22	of	IN
+23	atronachs	NNS
+24	.	.
+
+# sent_id = elder-scrolls-fandom-67
+# text = Aicantar : `` I just wanted to know if you needed anything . ''
+1	Aicantar	NNP
+2	:	:
+3	``	``
+4	I	PRP
+5	just	RB
+6	wanted	VBD
+7	to	TO
+8	know	VB
+9	if	IN
+10	you	PRP
+11	needed	VBD
+12	anything	NN
+13	.	.
+14	''	''
+
+# sent_id = elder-scrolls-fandom-68
+# text = Most say something in a language they can only speak sideways .
+1	Most	JJS
+2	say	VBP
+3	something	NN
+4	in	IN
+5	a	DT
+6	language	NN
+7	they	PRP
+8	can	MD
+9	only	RB
+10	speak	VB
+11	sideways	RB
+12	.	.
+
+# sent_id = elder-scrolls-fandom-69
+# text = `` Orcs , also known as Orsimer , are natives of Orsinium , a small mountain kingdom between Hammerfell and Skyrim .
+1	``	``
+2	Orcs	NNPS
+3	,	,
+4	also	RB
+5	known	VBN
+6	as	IN
+7	Orsimer	NNPS
+8	,	,
+9	are	VBP
+10	natives	NNS
+11	of	IN
+12	Orsinium	NNP
+13	,	,
+14	a	DT
+15	small	JJ
+16	mountain	NN
+17	kingdom	NN
+18	between	IN
+19	Hammerfell	NNP
+20	and	CC
+21	Skyrim	NNP
+22	.	.
+
+# sent_id = elder-scrolls-fandom-70
+# text = It is policed by the Redoran guard , under the command of Captain Veleth .
+1	It	PRP
+2	is	VBZ
+3	policed	VBN
+4	by	IN
+5	the	DT
+6	Redoran	JJ
+7	guard	NN
+8	,	,
+9	under	IN
+10	the	DT
+11	command	NN
+12	of	IN
+13	Captain	NNP
+14	Veleth	NNP
+15	.	.
+
+# sent_id = elder-scrolls-fandom-71
+# text = The hope is that every generation will be better than the next thanks to the efforts of the generation before it and its ability to adhere to and follow the Code of Malacath .
+1	The	DT
+2	hope	NN
+3	is	VBZ
+4	that	IN
+5	every	DT
+6	generation	NN
+7	will	MD
+8	be	VB
+9	better	JJR
+10	than	IN
+11	the	DT
+12	next	JJ
+13	thanks	NNS
+14	to	TO
+15	the	DT
+16	efforts	NNS
+17	of	IN
+18	the	DT
+19	generation	NN
+20	before	RB
+21	it	PRP
+22	and	CC
+23	its	PRP$
+24	ability	NN
+25	to	TO
+26	adhere	VB
+27	to	TO
+28	and	CC
+29	follow	VB
+30	the	DT
+31	Code	NNP
+32	of	IN
+33	Malacath	NNP
+34	.	.
+
+# sent_id = elder-scrolls-fandom-72
+# text = `` I stifled back my gasp at the mer 's impertinence , to even suggest that he would be worthy to fight with those of us who had trained so hard .
+1	``	``
+2	I	PRP
+3	stifled	VBD
+4	back	RB
+5	my	PRP$
+6	gasp	NN
+7	at	IN
+8	the	DT
+9	mer	NN
+10	's	POS
+11	impertinence	NN
+12	,	,
+13	to	TO
+14	even	RB
+15	suggest	VB
+16	that	IN
+17	he	PRP
+18	would	MD
+19	be	VB
+20	worthy	JJ
+21	to	TO
+22	fight	VB
+23	with	IN
+24	those	DT
+25	of	IN
+26	us	PRP
+27	who	WP
+28	had	VBD
+29	trained	VBN
+30	so	RB
+31	hard	JJ
+32	.	.
+
+# sent_id = elder-scrolls-fandom-73
+# text = It 's a harsh truth , but I hope hearing it allows you to go to a better place .
+1	It	PRP
+2	's	VBZ
+3	a	DT
+4	harsh	JJ
+5	truth	NN
+6	,	,
+7	but	CC
+8	I	PRP
+9	hope	VBP
+10	hearing	VBG
+11	it	PRP
+12	allows	VBZ
+13	you	PRP
+14	to	TO
+15	go	VB
+16	to	TO
+17	a	DT
+18	better	JJR
+19	place	NN
+20	.	.
+
+# sent_id = elder-scrolls-fandom-74
+# text = or `` Well , you see , that 's a little complicated , and ... you know what ?
+1	or	CC
+2	``	``
+3	Well	UH
+4	,	,
+5	you	PRP
+6	see	VBP
+7	,	,
+8	that	DT
+9	's	VBZ
+10	a	DT
+11	little	RB
+12	complicated	JJ
+13	,	,
+14	and	CC
+15	...	:
+16	you	PRP
+17	know	VBP
+18	what	WP
+19	?	.
+
+# sent_id = elder-scrolls-fandom-75
+# text = After getting the forged letter from The Stranger , the Hero needs to seal it using the Imperial Legion Seal to make it look official .
+1	After	IN
+2	getting	VBG
+3	the	DT
+4	forged	JJ
+5	letter	NN
+6	from	IN
+7	The	DT
+8	Stranger	NNP
+9	,	,
+10	the	DT
+11	Hero	NNP
+12	needs	VBZ
+13	to	TO
+14	seal	VB
+15	it	PRP
+16	using	VBG
+17	the	DT
+18	Imperial	NNP
+19	Legion	NNP
+20	Seal	NNP
+21	to	TO
+22	make	VB
+23	it	PRP
+24	look	VB
+25	official	JJ
+26	.	.
+
+# sent_id = elder-scrolls-fandom-76
+# text = “ No , ” Vaster whispered back , his eyes locked on the colors reflected in the heart of the globe .
+1	“	``
+2	No	UH
+3	,	,
+4	”	''
+5	Vaster	NNP
+6	whispered	VBD
+7	back	RB
+8	,	,
+9	his	PRP$
+10	eyes	NNS
+11	locked	VBN
+12	on	IN
+13	the	DT
+14	colors	NNS
+15	reflected	VBN
+16	in	IN
+17	the	DT
+18	heart	NN
+19	of	IN
+20	the	DT
+21	globe	NN
+22	.	.
+
+# sent_id = elder-scrolls-fandom-77
+# text = You 'd think they 'd have the decency to at least let me sleep , but they persist even there .
+1	You	PRP
+2	'd	MD
+3	think	VB
+4	they	PRP
+5	'd	MD
+6	have	VB
+7	the	DT
+8	decency	NN
+9	to	TO
+10	at	IN
+11	least	JJS
+12	let	VB
+13	me	PRP
+14	sleep	VB
+15	,	,
+16	but	CC
+17	they	PRP
+18	persist	VBP
+19	even	RB
+20	there	RB
+21	.	.
+
+# sent_id = elder-scrolls-fandom-78
+# text = I fear this mission has already ended in failure and that we are doomed to succumb to this soul-meld .
+1	I	PRP
+2	fear	VBP
+3	this	DT
+4	mission	NN
+5	has	VBZ
+6	already	RB
+7	ended	VBN
+8	in	IN
+9	failure	NN
+10	and	CC
+11	that	IN
+12	we	PRP
+13	are	VBP
+14	doomed	VBN
+15	to	TO
+16	succumb	VB
+17	to	TO
+18	this	DT
+19	soul-meld	NN
+20	.	.
+
+# sent_id = elder-scrolls-fandom-79
+# text = No sooner had the wizard unfurled the scroll and read the words aloud , when a great feast appeared from out of thin air .
+1	No	DT
+2	sooner	RBR
+3	had	VBD
+4	the	DT
+5	wizard	NN
+6	unfurled	VBN
+7	the	DT
+8	scroll	NN
+9	and	CC
+10	read	VBN
+11	the	DT
+12	words	NNS
+13	aloud	RB
+14	,	,
+15	when	IN
+16	a	DT
+17	great	JJ
+18	feast	NN
+19	appeared	VBD
+20	from	IN
+21	out	IN
+22	of	IN
+23	thin	JJ
+24	air	NN
+25	.	.
+
+# sent_id = elder-scrolls-fandom-80
+# text = Deploy the troops for battle ! ''
+1	Deploy	VB
+2	the	DT
+3	troops	NNS
+4	for	IN
+5	battle	NN
+6	!	.
+7	''	''
+
+# sent_id = elder-scrolls-fandom-81
+# text = Get on the road just to the right of it .
+1	Get	VB
+2	on	IN
+3	the	DT
+4	road	NN
+5	just	RB
+6	to	TO
+7	the	DT
+8	right	NN
+9	of	IN
+10	it	PRP
+11	.	.
+
+# sent_id = elder-scrolls-fandom-82
+# text = And no breed of horse is more closely associated with the Knights of the Desert than the
+1	And	CC
+2	no	DT
+3	breed	NN
+4	of	IN
+5	horse	NN
+6	is	VBZ
+7	more	RBR
+8	closely	RB
+9	associated	VBN
+10	with	IN
+11	the	DT
+12	Knights	NNPS
+13	of	IN
+14	the	DT
+15	Desert	NNP
+16	than	IN
+17	the	DT
+
+# sent_id = elder-scrolls-fandom-83
+# text = Under his guidance and care , the Cathedral of Akatosh has remained a stabilizing force in our part of the world for most of the last decade .
+1	Under	IN
+2	his	PRP$
+3	guidance	NN
+4	and	CC
+5	care	NN
+6	,	,
+7	the	DT
+8	Cathedral	NNP
+9	of	IN
+10	Akatosh	NNP
+11	has	VBZ
+12	remained	VBN
+13	a	DT
+14	stabilizing	VBG
+15	force	NN
+16	in	IN
+17	our	PRP$
+18	part	NN
+19	of	IN
+20	the	DT
+21	world	NN
+22	for	IN
+23	most	JJS
+24	of	IN
+25	the	DT
+26	last	JJ
+27	decade	NN
+28	.	.
+
+# sent_id = elder-scrolls-fandom-84
+# text = Lond : `` If you do n't mind me saying , Leigelf .
+1	Lond	NNP
+2	:	:
+3	``	``
+4	If	IN
+5	you	PRP
+6	do	VBP
+7	n't	RB
+8	mind	VB
+9	me	PRP
+10	saying	VBG
+11	,	,
+12	Leigelf	NNP
+13	.	.
+
+# sent_id = elder-scrolls-fandom-85
+# text = Roggi : `` Have you heard about Goldenglow Meadery ? ''
+1	Roggi	NNP
+2	:	:
+3	``	``
+4	Have	VBP
+5	you	PRP
+6	heard	VBN
+7	about	IN
+8	Goldenglow	NNP
+9	Meadery	NNP
+10	?	.
+11	''	''
+
+# sent_id = elder-scrolls-fandom-86
+# text = The houses are lit .
+1	The	DT
+2	houses	NNS
+3	are	VBP
+4	lit	VBN
+5	.	.
+
+# sent_id = elder-scrolls-fandom-87
+# text = Bala and her master , the noble Dunmer , Eanen had fallen deeply in love .
+1	Bala	NNP
+2	and	CC
+3	her	PRP$
+4	master	NN
+5	,	,
+6	the	DT
+7	noble	JJ
+8	Dunmer	NN
+9	,	,
+10	Eanen	NNP
+11	had	VBD
+12	fallen	VBN
+13	deeply	RB
+14	in	IN
+15	love	NN
+16	.	.
+
+# sent_id = elder-scrolls-fandom-88
+# text = I joined with Bashnag then , but I thought of Savela every day .
+1	I	PRP
+2	joined	VBD
+3	with	IN
+4	Bashnag	NNP
+5	then	RB
+6	,	,
+7	but	IN
+8	I	PRP
+9	thought	VBD
+10	of	IN
+11	Savela	NNP
+12	every	DT
+13	day	NN
+14	.	.
+
+# sent_id = elder-scrolls-fandom-89
+# text = This character uses or carries the following :
+1	This	DT
+2	character	NN
+3	uses	VBZ
+4	or	CC
+5	carries	VBZ
+6	the	DT
+7	following	VBG
+8	:	:
+
+# sent_id = elder-scrolls-fandom-90
+# text = It is connected to the mainland by a bridge .
+1	It	PRP
+2	is	VBZ
+3	connected	VBN
+4	to	TO
+5	the	DT
+6	mainland	NN
+7	by	IN
+8	a	DT
+9	bridge	NN
+10	.	.
+
+# sent_id = elder-scrolls-fandom-91
+# text = Always off , foraging for squirrels , or birds or what-have-you .
+1	Always	RB
+2	off	RB
+3	,	,
+4	foraging	VBG
+5	for	IN
+6	squirrels	NNS
+7	,	,
+8	or	CC
+9	birds	NNS
+10	or	CC
+11	what-have-you	NN
+12	.	.
+
+# sent_id = elder-scrolls-fandom-92
+# text = Consider the Tomb of the Serpents .
+1	Consider	VB
+2	the	DT
+3	Tomb	NNP
+4	of	IN
+5	the	DT
+6	Serpents	NNPS
+7	.	.
+
+# sent_id = elder-scrolls-fandom-93
+# text = To the southeast is Nimalten City , to the northeast is Laintar Dale , to the west is Black Moor , and to the south is Riverwood .
+1	To	TO
+2	the	DT
+3	southeast	NN
+4	is	VBZ
+5	Nimalten	NNP
+6	City	NNP
+7	,	,
+8	to	TO
+9	the	DT
+10	northeast	NN
+11	is	VBZ
+12	Laintar	NNP
+13	Dale	NNP
+14	,	,
+15	to	TO
+16	the	DT
+17	west	NN
+18	is	VBZ
+19	Black	NNP
+20	Moor	NNP
+21	,	,
+22	and	CC
+23	to	TO
+24	the	DT
+25	south	NN
+26	is	VBZ
+27	Riverwood	NNP
+28	.	.
+
+# sent_id = elder-scrolls-fandom-94
+# text = [ ] The nominal head of the Khajiiti religion is a unique form of Khajiit known as the Mane .
+1	[	-LRB-
+2	]	-RRB-
+3	The	DT
+4	nominal	JJ
+5	head	NN
+6	of	IN
+7	the	DT
+8	Khajiiti	JJ
+9	religion	NN
+10	is	VBZ
+11	a	DT
+12	unique	JJ
+13	form	NN
+14	of	IN
+15	Khajiit	JJ
+16	known	VBN
+17	as	IN
+18	the	DT
+19	Mane	NNP
+20	.	.
+
+# sent_id = elder-scrolls-fandom-95
+# text = A second group of witches found inside the Dragontail Mountains , protected by a number of spearwomen at the Devilrock Coven .
+1	A	DT
+2	second	JJ
+3	group	NN
+4	of	IN
+5	witches	NNS
+6	found	VBN
+7	inside	IN
+8	the	DT
+9	Dragontail	NNP
+10	Mountains	NNPS
+11	,	,
+12	protected	VBN
+13	by	IN
+14	a	DT
+15	number	NN
+16	of	IN
+17	spearwomen	NNS
+18	at	IN
+19	the	DT
+20	Devilrock	NNP
+21	Coven	NNP
+22	.	.
+
+# sent_id = elder-scrolls-fandom-96
+# text = Singwood is a city in the region of Daggerfall , High Rock .
+1	Singwood	NNP
+2	is	VBZ
+3	a	DT
+4	city	NN
+5	in	IN
+6	the	DT
+7	region	NN
+8	of	IN
+9	Daggerfall	NNP
+10	,	,
+11	High	NNP
+12	Rock	NNP
+13	.	.
+
+# sent_id = elder-scrolls-fandom-97
+# text = Lillandril is a city that appears on the island of Summerset in `` '' .
+1	Lillandril	NNP
+2	is	VBZ
+3	a	DT
+4	city	NN
+5	that	WDT
+6	appears	VBZ
+7	on	IN
+8	the	DT
+9	island	NN
+10	of	IN
+11	Summerset	NNP
+12	in	IN
+13	``	``
+14	''	''
+15	.	.
+
+# sent_id = elder-scrolls-fandom-98
+# text = Hannibal Traven tasks the Hero with killing Mannimarco , the King of Worms .
+1	Hannibal	NNP
+2	Traven	NNP
+3	tasks	VBZ
+4	the	DT
+5	Hero	NNP
+6	with	IN
+7	killing	VBG
+8	Mannimarco	NNP
+9	,	,
+10	the	DT
+11	King	NNP
+12	of	IN
+13	Worms	NNPS
+14	.	.
+
+# sent_id = elder-scrolls-fandom-99
+# text = Tharn had a powerful weapon called the Staff of Chaos , and he split it into nine pieces and scattered them across Tamriel , the staff was the only thing keeping Uriel Septim and Warhaft in Oblivion .
+1	Tharn	NNP
+2	had	VBD
+3	a	DT
+4	powerful	JJ
+5	weapon	NN
+6	called	VBN
+7	the	DT
+8	Staff	NNP
+9	of	IN
+10	Chaos	NNP
+11	,	,
+12	and	CC
+13	he	PRP
+14	split	VBD
+15	it	PRP
+16	into	IN
+17	nine	CD
+18	pieces	NNS
+19	and	CC
+20	scattered	VBD
+21	them	PRP
+22	across	IN
+23	Tamriel	NNP
+24	,	,
+25	the	DT
+26	staff	NN
+27	was	VBD
+28	the	DT
+29	only	JJ
+30	thing	NN
+31	keeping	VBG
+32	Uriel	NNP
+33	Septim	NNP
+34	and	CC
+35	Warhaft	NNP
+36	in	IN
+37	Oblivion	NNP
+38	.	.
+
+# sent_id = elder-scrolls-fandom-100
+# text = `` I AM speaking the same language , right ?
+1	``	``
+2	I	PRP
+3	AM	VBP
+4	speaking	VBG
+5	the	DT
+6	same	JJ
+7	language	NN
+8	,	,
+9	right	UH
+10	?	.
+
+# sent_id = elder-scrolls-fandom-101
+# text = She can be found at her store , The Clever Retort , selling her wares .
+1	She	PRP
+2	can	MD
+3	be	VB
+4	found	VBN
+5	at	IN
+6	her	PRP$
+7	store	NN
+8	,	,
+9	The	DT
+10	Clever	NNP
+11	Retort	NNP
+12	,	,
+13	selling	VBG
+14	her	PRP$
+15	wares	NNS
+16	.	.
+
+# sent_id = elder-scrolls-fandom-102
+# text = Both incidents have fostered interest in the Island over the years by researchers and academics , though none could find a cause for the storms .
+1	Both	DT
+2	incidents	NNS
+3	have	VBP
+4	fostered	VBN
+5	interest	NN
+6	in	IN
+7	the	DT
+8	Island	NN
+9	over	IN
+10	the	DT
+11	years	NNS
+12	by	IN
+13	researchers	NNS
+14	and	CC
+15	academics	NNS
+16	,	,
+17	though	IN
+18	none	NN
+19	could	MD
+20	find	VB
+21	a	DT
+22	cause	NN
+23	for	IN
+24	the	DT
+25	storms	NNS
+26	.	.
+
+# sent_id = elder-scrolls-fandom-103
+# text = Edryno should have given you a key .
+1	Edryno	NNP
+2	should	MD
+3	have	VB
+4	given	VBN
+5	you	PRP
+6	a	DT
+7	key	NN
+8	.	.
+
+# sent_id = elder-scrolls-fandom-104
+# text = Upon the Hero 's arrival at the Priory , one of the knights will tell them that the Prophet is getting ready for a speech in the chapel .
+1	Upon	IN
+2	the	DT
+3	Hero	NNP
+4	's	POS
+5	arrival	NN
+6	at	IN
+7	the	DT
+8	Priory	NN
+9	,	,
+10	one	CD
+11	of	IN
+12	the	DT
+13	knights	NNS
+14	will	MD
+15	tell	VB
+16	them	PRP
+17	that	IN
+18	the	DT
+19	Prophet	NNP
+20	is	VBZ
+21	getting	VBG
+22	ready	JJ
+23	for	IN
+24	a	DT
+25	speech	NN
+26	in	IN
+27	the	DT
+28	chapel	NN
+29	.	.
+
+# sent_id = elder-scrolls-fandom-105
+# text = It is a gift given by Korst Wind-Eye in Skaal Village .
+1	It	PRP
+2	is	VBZ
+3	a	DT
+4	gift	NN
+5	given	VBN
+6	by	IN
+7	Korst	NNP
+8	Wind-Eye	NNP
+9	in	IN
+10	Skaal	NNP
+11	Village	NNP
+12	.	.
+
+# sent_id = elder-scrolls-fandom-106
+# text = Now if only I could figure out how to restore the gheatus and the ilyadi .
+1	Now	UH
+2	if	IN
+3	only	RB
+4	I	PRP
+5	could	MD
+6	figure	VB
+7	out	RP
+8	how	WRB
+9	to	TO
+10	restore	VB
+11	the	DT
+12	gheatus	NNS
+13	and	CC
+14	the	DT
+15	ilyadi	NNS
+16	.	.
+
+# sent_id = elder-scrolls-fandom-107
+# text = I do n't think he really cared about it .
+1	I	PRP
+2	do	VBP
+3	n't	RB
+4	think	VB
+5	he	PRP
+6	really	RB
+7	cared	VBD
+8	about	IN
+9	it	PRP
+10	.	.
+
+# sent_id = elder-scrolls-fandom-108
+# text = The King 's Muskrat Inn is a tavern within the region of Dragontail Mountains in Hammerfell .
+1	The	DT
+2	King	NNP
+3	's	POS
+4	Muskrat	NNP
+5	Inn	NNP
+6	is	VBZ
+7	a	DT
+8	tavern	NN
+9	within	IN
+10	the	DT
+11	region	NN
+12	of	IN
+13	Dragontail	NNP
+14	Mountains	NNPS
+15	in	IN
+16	Hammerfell	NNP
+17	.	.
+
+# sent_id = elder-scrolls-fandom-109
+# text = The population of the proud feline Khajiit has dwindled in recent years following a devastating outbreak of Knahaten Flu .
+1	The	DT
+2	population	NN
+3	of	IN
+4	the	DT
+5	proud	JJ
+6	feline	JJ
+7	Khajiit	NNS
+8	has	VBZ
+9	dwindled	VBN
+10	in	IN
+11	recent	JJ
+12	years	NNS
+13	following	VBG
+14	a	DT
+15	devastating	JJ
+16	outbreak	NN
+17	of	IN
+18	Knahaten	NNP
+19	Flu	NNP
+20	.	.
+
+# sent_id = elder-scrolls-fandom-110
+# text = Everything here is spoken for . ''
+1	Everything	NN
+2	here	RB
+3	is	VBZ
+4	spoken	VBN
+5	for	IN
+6	.	.
+7	''	''
+
+# sent_id = elder-scrolls-fandom-111
+# text = — Six counts of unauthorized necromancy .
+1	—	:
+2	Six	CD
+3	counts	NNS
+4	of	IN
+5	unauthorized	JJ
+6	necromancy	NN
+7	.	.
+
+# sent_id = elder-scrolls-fandom-112
+# text = Unfortunately , in my haste to deal with the Queen 's decree , I may have made an error in judgment . ''
+1	Unfortunately	RB
+2	,	,
+3	in	IN
+4	my	PRP$
+5	haste	NN
+6	to	TO
+7	deal	VB
+8	with	IN
+9	the	DT
+10	Queen	NNP
+11	's	POS
+12	decree	NN
+13	,	,
+14	I	PRP
+15	may	MD
+16	have	VB
+17	made	VBN
+18	an	DT
+19	error	NN
+20	in	IN
+21	judgment	NN
+22	.	.
+23	''	''
+
+# sent_id = elder-scrolls-fandom-113
+# text = For most folk , the island looks downright inviting — white sandy beaches , sweet-smelling blossoms , freshwater springs and the like .
+1	For	IN
+2	most	JJS
+3	folk	NNS
+4	,	,
+5	the	DT
+6	island	NN
+7	looks	VBZ
+8	downright	RB
+9	inviting	JJ
+10	—	:
+11	white	JJ
+12	sandy	JJ
+13	beaches	NNS
+14	,	,
+15	sweet-smelling	VBG
+16	blossoms	NNS
+17	,	,
+18	freshwater	JJ
+19	springs	NNS
+20	and	CC
+21	the	DT
+22	like	NN
+23	.	.
+
+# sent_id = elder-scrolls-fandom-114
+# text = Netch leather is thinner by quite a bit .
+1	Netch	NN
+2	leather	NN
+3	is	VBZ
+4	thinner	JJR
+5	by	IN
+6	quite	RB
+7	a	DT
+8	bit	NN
+9	.	.
+
+# sent_id = elder-scrolls-fandom-115
+# text = `` What is it , citizen ? ''
+1	``	``
+2	What	WP
+3	is	VBZ
+4	it	PRP
+5	,	,
+6	citizen	NN
+7	?	.
+8	''	''
+
+# sent_id = elder-scrolls-fandom-116
+# text = Theodor Gorlash is an eccentric man claiming to be from High Rock , that appears in the Town after the Fugitive completes `` Rescuing the Townsfolk . ''
+1	Theodor	NNP
+2	Gorlash	NNP
+3	is	VBZ
+4	an	DT
+5	eccentric	JJ
+6	man	NN
+7	claiming	VBG
+8	to	TO
+9	be	VB
+10	from	IN
+11	High	NNP
+12	Rock	NNP
+13	,	,
+14	that	WDT
+15	appears	VBZ
+16	in	IN
+17	the	DT
+18	Town	NNP
+19	after	IN
+20	the	DT
+21	Fugitive	NNP
+22	completes	VBZ
+23	``	``
+24	Rescuing	NNP
+25	the	DT
+26	Townsfolk	NNPS
+27	.	.
+28	''	''
+
+# sent_id = elder-scrolls-fandom-117
+# text = When discovering the ashes of Din :
+1	When	WRB
+2	discovering	VBG
+3	the	DT
+4	ashes	NNS
+5	of	IN
+6	Din	NNP
+7	:	:
+
+# sent_id = elder-scrolls-fandom-118
+# text = They were adept at moving through darkness and often took their enemies completely by surprise .
+1	They	PRP
+2	were	VBD
+3	adept	JJ
+4	at	IN
+5	moving	VBG
+6	through	IN
+7	darkness	NN
+8	and	CC
+9	often	RB
+10	took	VBD
+11	their	PRP$
+12	enemies	NNS
+13	completely	RB
+14	by	IN
+15	surprise	NN
+16	.	.
+
+# sent_id = elder-scrolls-fandom-119
+# text = It 's just not a party without an echatere !
+1	It	PRP
+2	's	VBZ
+3	just	RB
+4	not	RB
+5	a	DT
+6	party	NN
+7	without	IN
+8	an	DT
+9	echatere	NN
+10	!	.
+
+# sent_id = elder-scrolls-fandom-120
+# text = Two quests of rival factions ( House Hlaalu vs House Telvanni ) take place here .
+1	Two	CD
+2	quests	NNS
+3	of	IN
+4	rival	JJ
+5	factions	NNS
+6	(	-LRB-
+7	House	NNP
+8	Hlaalu	NNP
+9	vs	IN
+10	House	NNP
+11	Telvanni	NNP
+12	)	-RRB-
+13	take	VBP
+14	place	NN
+15	here	RB
+16	.	.
+
+# sent_id = elder-scrolls-fandom-121
+# text = To start the quest , the Dragonborn must got to Filnjar , a blacksmith at Shor 's Stone .
+1	To	TO
+2	start	VB
+3	the	DT
+4	quest	NN
+5	,	,
+6	the	DT
+7	Dragonborn	NNP
+8	must	MD
+9	got	VB
+10	to	TO
+11	Filnjar	NNP
+12	,	,
+13	a	DT
+14	blacksmith	NN
+15	at	IN
+16	Shor	NNP
+17	's	POS
+18	Stone	NNP
+19	.	.
+
+# sent_id = elder-scrolls-fandom-122
+# text = At the end of this hall is the barred door to the left ( that can now be opened ) and another door to the right that leads to Cicero .
+1	At	IN
+2	the	DT
+3	end	NN
+4	of	IN
+5	this	DT
+6	hall	NN
+7	is	VBZ
+8	the	DT
+9	barred	VBN
+10	door	NN
+11	to	TO
+12	the	DT
+13	left	NN
+14	(	-LRB-
+15	that	WDT
+16	can	MD
+17	now	RB
+18	be	VB
+19	opened	VBN
+20	)	-RRB-
+21	and	CC
+22	another	DT
+23	door	NN
+24	to	IN
+25	the	DT
+26	right	NN
+27	that	WDT
+28	leads	VBZ
+29	to	TO
+30	Cicero	NNP
+31	.	.
+
+# sent_id = elder-scrolls-fandom-123
+# text = At least for a time , the warm feeling comes from within ― and not all the nearby volcanoes . ''
+1	At	IN
+2	least	JJS
+3	for	IN
+4	a	DT
+5	time	NN
+6	,	,
+7	the	DT
+8	warm	JJ
+9	feeling	NN
+10	comes	VBZ
+11	from	IN
+12	within	RB
+13	―	:
+14	and	CC
+15	not	RB
+16	all	PDT
+17	the	DT
+18	nearby	RB
+19	volcanoes	NNS
+20	.	.
+21	''	''
+
+# sent_id = elder-scrolls-fandom-124
+# text = It is recommended that this disease be cured quickly as Strength affects how much damage an enemy target takes , and Endurance affects how much damage can be taken before dying or having to use a healing spell .
+1	It	PRP
+2	is	VBZ
+3	recommended	VBN
+4	that	IN
+5	this	DT
+6	disease	NN
+7	be	VB
+8	cured	VBN
+9	quickly	RB
+10	as	IN
+11	Strength	NN
+12	affects	VBZ
+13	how	WRB
+14	much	JJ
+15	damage	NN
+16	an	DT
+17	enemy	NN
+18	target	NN
+19	takes	VBZ
+20	,	,
+21	and	CC
+22	Endurance	NN
+23	affects	VBZ
+24	how	WRB
+25	much	JJ
+26	damage	NN
+27	can	MD
+28	be	VB
+29	taken	VBN
+30	before	IN
+31	dying	VBG
+32	or	CC
+33	having	VBG
+34	to	TO
+35	use	VB
+36	a	DT
+37	healing	VBG
+38	spell	NN
+39	.	.
